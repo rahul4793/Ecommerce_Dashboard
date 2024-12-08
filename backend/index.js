@@ -27,7 +27,7 @@ app.use('/api', barChartRoute);
 app.use('/api', combinedDataRoute);
 app.use('/api', pieChartRoute);
 
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 5870;
 
 app.listen(port, () => {
   console.log(`Server running on http://localhost:${port}`);
