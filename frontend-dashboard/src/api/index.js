@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000/api'; 
+// const API_URL = 'http://localhost:5000/api'; 
+const API_URL = 'https://ecommerce-dashboard-sabw.onrender.com/api'; 
 
 // Get combined data
 export const getCombinedData = async (month) => {
