@@ -1,3 +1,6 @@
+# Deployed URL 
+https://ecommerce-dashboard-black.vercel.app/
+
 # Transactions Dashboard Application
 
 This project is a **Transactions Dashboard** built with a **React frontend** and a **Node.js backend**. It allows users to view, search, and analyze transaction data, providing insights through statistics and interactive charts.
