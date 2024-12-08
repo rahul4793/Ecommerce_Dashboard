@@ -1,5 +1,8 @@
-# Deployed URL 
+# Deployed Frontend URL 
 https://ecommerce-dashboard-black.vercel.app/
+
+# Deployed Backend URL 
+https://ecommerce-dashboard-sabw.onrender.com/api/products?month=May
 
 # Transactions Dashboard Application
 
