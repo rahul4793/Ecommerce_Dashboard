@@ -51,7 +51,7 @@ const TransactionsTable = ({ month }) => {
               <td>{transaction.description}</td>
               <td>{transaction.price}</td>
               <td>{transaction.category}</td>
-              <td>{transaction.sold}</td>
+             <td>{transaction.sold ? 'Sold' : 'Available'}</td>
               <td>
                 {transaction.image ? (
                   <img src={transaction.image} alt="Product" style={{ width: '50px', height: '50px' }} />
